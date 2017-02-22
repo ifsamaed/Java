@@ -52,6 +52,7 @@ public class Controller {
     }
 
     //onAction of ourCheckBox
+    @FXML
     public void handleChange() {
         System.out.println("The checkbox is " + (ourCheckBox.isSelected() ? "checked" : "not checked"));
     }
