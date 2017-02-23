@@ -1,17 +1,15 @@
 # I have a Wiki of this Repository
 If you need more documentation in spanish. I try to explain a little examples a give some advices.❤️
+In this repository You can find some examples of various Java syntax:
 
-# Java
-Many examples of various Java syntax:
-
-#FILE Eventos:
+###FILE Eventos:
 Buttons , onKeyReleased, onButtonClicked
 
-#FILE Hilos:
+###FILE Hilos:
 CheckBox, checkBoxhandleChange,  Thread.sleep
 
-#FILE Interface Runnable:
+###FILE Interface Runnable:
 Runnable, run(), isFxApplicationThread(), 
 
-#FILE Java.math.BigInteger Class:
+###FILE Java.math.BigInteger Class:
 Provides operations for modular arithmetic, GCD calculation, primality testing, prime generation, bit manipulation, and a few other miscellaneous operations.
