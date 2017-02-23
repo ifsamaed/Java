@@ -1,3 +1,5 @@
+# I have a Wiki of this Repository
+If you need more documentation in spanish. I try to explain a little examples a give some advices.❤️
 
 # Java
 Many examples of various Java syntax:
