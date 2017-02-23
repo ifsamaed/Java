@@ -1,6 +1,9 @@
-# I have a Wiki of this Repository
-If you need more documentation in spanish. I try to explain a little examples a give some advices.❤️
+#JAVA#
+======
+
+I have a Wiki of this Repository, if you need more documentation in spanish. I try to explain a little examples a give some advices.❤️
 In this repository You can find some examples of various Java syntax:
+
 
 ###FILE Eventos:
 Buttons , onKeyReleased, onButtonClicked
