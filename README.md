@@ -14,3 +14,6 @@ Runnable, run(), isFxApplicationThread(),
 
 ###FILE Java.math.BigInteger Class:
 Provides operations for modular arithmetic, GCD calculation, primality testing, prime generation, bit manipulation, and a few other miscellaneous operations.
+
+###FILE pilasCapicua:
+In this exercise we are passing  a stack as parameter, this function convert this stack in capicua
