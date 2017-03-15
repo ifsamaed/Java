@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        gcd(new BigInteger("397"), new BigInteger("244"));
+        gcd(new BigInteger("12"), new BigInteger("18"));
 
         modulo(new BigInteger("397"), new BigInteger("244"));
 
@@ -29,6 +29,7 @@ public class Main {
         System.out.println("The index of the rightmost one bit is " + bi1.getLowestSetBit());
         // assign gcd of bi1, bi2 to bi3
         bi3 = bi1.gcd(bi2);
+
 
         String str = "GCD of " + bi1 + " and " + bi2 + " is " + bi3;
 
