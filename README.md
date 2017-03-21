@@ -21,3 +21,6 @@ Provides operations for modular arithmetic, GCD calculation, primality testing, 
 
 **FILE pilasCapicua**:
 In this exercise we are passing  a stack as parameter, this function convert this stack in capicua
+
+**FILE ManejoExcepciones**:
+This application use exception handling to process ArithmeticException e InputMismatchException. 
