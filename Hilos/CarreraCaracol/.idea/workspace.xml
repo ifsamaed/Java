@@ -2,43 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bd67555-811f-4b5a-acdd-a15774d1f7b1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AtaqueCiclicoRSA/out/production/AtaqueCiclicoRSA/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cajera/Caracol.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cajera/CaracolThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cajera/Lobo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cajera/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Cajera/MainRunnable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ThreadDemo/out/production/ThreadDemo/Sheep.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ThreadDemo/out/production/ThreadDemo/SheepTrial.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AtaqueCiclicoRSA/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AtaqueCiclicoRSA/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AtaqueCiclicoRSA/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AtaqueCiclicoRSA/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AtaqueCiclicoRSA/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AtaqueCiclicoRSA/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AtaqueCiclicoRSA/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AtaqueCiclicoRSA/AtaqueCiclicoRSA.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AtaqueCiclicoRSA/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Cajera/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CarreraCaracol.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Caracol.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CaracolThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Lobo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MainRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ThreadDemo/src/Sheep.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ThreadDemo/src/SheepTrial.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ThreadDemo/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ThreadDemo/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ThreadDemo/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ThreadDemo/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ThreadDemo/ThreadDemo.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ThreadDemo/out/production/ThreadDemo/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ThreadDemo/out/production/ThreadDemo/ThreadClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ThreadDemo/src/Main.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ManejoExcepciones/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../ManejoExcepciones/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ThreadDemo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../ThreadDemo/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ThreadDemo/src/Main.java" afterPath="$PROJECT_DIR$/../../ThreadDemo/src/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -628,12 +600,12 @@
       <option name="presentableId" value="Default" />
       <updated>1490144129059</updated>
       <workItem from="1490144132683" duration="2588000" />
-      <workItem from="1490146779049" duration="218000" />
+      <workItem from="1490146779049" duration="723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2806000" />
+    <option name="totallyTimeSpent" value="3319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1436" height="877" extended-state="6" />
