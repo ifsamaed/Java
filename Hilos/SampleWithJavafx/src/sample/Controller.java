@@ -31,7 +31,7 @@ public class Controller {
         }
 
         try {
-            //Thread to sleep for 10 seconds after we print a message Hello or Bye 
+            //Thread to sleep for 10 seconds after we print a message Hello or Bye
             Thread.sleep(10000);
         } catch(InterruptedException event) {
             // we don't care about this
