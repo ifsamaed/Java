@@ -14,4 +14,5 @@ public interface Pila {
     void imprimirPila ();
     void leerPila () throws NumberFormatException, IOException;
     int numElemPila ();
+
 }

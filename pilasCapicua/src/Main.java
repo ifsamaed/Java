@@ -1,31 +1,42 @@
+import java.util.EmptyStackException;
+import java.util.Stack;
+
 public class Main {
 
-
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        try {
+
+        Stack st = new Stack();
+
+            System.out.println("stack: " + st);
+            Main.hacerCapicua(st);
+
+        } catch ( EmptyStackException pilaVacia) {
+            System.out.println("empty stack");
+        }
+
     }
 
-    static void sumergir(Pila pila, int dato) throws PilaVacia {
+     static void sumergir(Stack pila, int dato)  {
         int elem;
-        if (!pila.pilaVacia()){
-            elem = pila.despilar ();
+        if (!pila.empty()){
+            elem = (int) pila.pop ();
             sumergir(pila, dato);
-            pila.apilar (elem);
+            pila.push (elem);
         }
         else{
-            pila.apilar(dato);
+            pila.push(dato);
         }
     }
 
-    static void hacerCapicua (Pila pila) throws PilaVacia{
+    static void hacerCapicua (Stack pila) {
         int elem;
-
-        if (!pila.Vacia()){
-            elem = pila.desapilar ();
+        if (!pila.empty()){
+            elem = (int) pila.pop ();
             hacerCapicua(pila);
             sumergir(pila, elem);
-            pila. apilar(elem);
+            pila.push(elem);
         }
-        
+
     }
 }
