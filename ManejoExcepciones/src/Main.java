@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Main {
 
+//Para un mejor uso se debe implentar una clase que maneje las excepciones
     public static void main(String[] args) {
         System.out.println("División entre cero:");
         Scanner explorador = new Scanner(System.in);
