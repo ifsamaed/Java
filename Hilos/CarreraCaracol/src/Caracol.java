@@ -38,6 +38,7 @@ public class Caracol {
 
     private void esperarXsegundos(int segundos) {
         try {
+
             Thread.sleep(segundos * 1000);
         } catch (InterruptedException ex) {
             Thread.currentThread().interrupt();

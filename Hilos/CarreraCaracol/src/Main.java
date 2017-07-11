@@ -16,6 +16,9 @@ public class Main {
         Caracol2.procesarDefensa(lobo2, initialTime);
 
 
+
+
+
     }
 }
 
